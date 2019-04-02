@@ -1,2 +1,2 @@
 # computational_mathematics
-Computational mathematics course (2019 )
+Вычислительная математика. Лабораторные работы 3 курс 6 семестр.
